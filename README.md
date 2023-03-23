@@ -1,3 +1,3 @@
-# Pico CSS
+# Pizzería
 
-[Página](https://nanemoreno19.github.io/Uso-de-Git-Markdown-y-GitHub3/)
+[Página](https://nanemoreno19.github.io/Uso-de-Git-Markdown-y-GitHub2/)
